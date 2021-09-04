@@ -13,3 +13,5 @@
 <li>Check if stack is empty</li>
 <li>Check if stack is full</li>
 <li>Get the value of the top element without removing it</li></p>
+<strong><ins>Depth First Search (DFS) algorithm</ins></strong>
+<p>Depth First Search (DFS) is a recursive that resort to the idea of backtracking. The functionment of this algorithm is based of a sequential and exhaustive search of the nodes by going ahead or, in the other case, by using the principle of backtracking.</p>
